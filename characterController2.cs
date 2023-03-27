@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class characterController2 : MonoBehaviour
 {
-    public float jumpForce = 2.0f; 
+    public float jumpForce = 10.0f; 
     public float speed = 1.0f;
     float moveDirection;
 
